@@ -1,2 +1,2 @@
-# R_projects2
-Mainly private R projects
+# R_projects
+Mainly private R projects.
